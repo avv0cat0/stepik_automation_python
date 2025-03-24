@@ -1,2 +1,2 @@
 # stepik_automation_python
-Test repo
+This is a test repo for course Test automation with Selenium and Python
